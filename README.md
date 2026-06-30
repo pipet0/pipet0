@@ -8,7 +8,7 @@
 Student and builder focused on **Data Science & AI**.
 I like finding patterns where others see chaos.
 
-- 🔭 building: `[tu proyecto actual]`
+- 🔭 building: `Prediccion meteorológica para cultivos`
 - 🌱 learning: ML · Deep Learning · MLOps
 - 🤝 open to: collaborations, research, real-world projects
 
